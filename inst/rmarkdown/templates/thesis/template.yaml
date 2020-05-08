@@ -1,4 +1,3 @@
-name:  Thesis
+name:  HD-Thesis
 description: >
- Template for creating a Senior Thesis at Reed College using R Markdown based on the Reed College LaTeX and Word templates and the R bookdown package.
-
+ Template for creating a PhD thesis at Factuly of Bioscience at Heidelberg University using R Markdown based on the Reed College LaTeX and Word templates and the R bookdown package.

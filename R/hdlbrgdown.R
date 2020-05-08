@@ -1,5 +1,5 @@
-#' thesisdown: A package for creating undergraduate, Masters, and PhD theses
-#'using R Markdown
+#' hdlbrgdown: A package for creating PhD theses at the Faculty of Bioscience
+#'   at Heidelberg University using R Markdown
 #'
 #'
 #' @section thesis_gitbook:
@@ -11,5 +11,5 @@
 #' @section thesis_epub:
 #' Creates an R Markdown thesis template as an ebook
 #' @docType package
-#' @name thesisdown
+#' @name hdlbrgdown
 NULL
