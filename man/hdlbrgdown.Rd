@@ -5,6 +5,9 @@
 \alias{hdlbrgdown}
 \title{hdlbrgdown: A package for creating PhD theses at the Faculty of Bioscience
   at Heidelberg University using R Markdown}
+\description{
+Description
+}
 \section{thesis_gitbook}{
 
 Creates an R Markdown thesis template as a webpage

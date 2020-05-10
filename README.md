@@ -1,4 +1,8 @@
-# thesisdown
+# hdlbrgdown
+
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.com/christianholland/hdlbrgdown.svg?branch=master)](https://travis-ci.com/christianholland/hdlbrgdown)
+<!-- badges: end -->
 
 This project was inspired by the [bookdown](https://github.com/rstudio/bookdown) package and is an updated version of my Senior Thesis template in the `reedtemplates` package [here](https://github.com/ismayc/reedtemplates). It was originally designed to only work with the Reed College LaTeX template, but has since been adapted to work with many different institutions by many different individuals. Check out the [**Customizing thesisdown to your institution**](https://github.com/ismayc/thesisdown#customizing-thesisdown-to-your-institution) section below for examples.
 
