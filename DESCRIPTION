@@ -1,5 +1,6 @@
 Package: hdlbrgdown
-Title: An updated R Markdown thesis template using the bookdown package
+Title: A package for creating PhD theses at the Faculty of Bioscience at 
+    Heidelberg University using R Markdown
 Version: 0.0.3
 Authors@R: c(
     person("Christian H.", "Holland", 
@@ -10,15 +11,17 @@ Description: Using the bookdown package and LaTeX and Word thesis templates from
     Reed College, this package aims to encourage reproducible research using
     simple Markdown syntax while embedding all of the R code to produce plots
     and analyses as well.
-Depends: R (>= 3.2.0)
-License: MIT + file LICENSE
-Encoding: UTF-8
-LazyData: true
-SystemRequirements: pandoc (>= 1.18) - http://pandoc.org
-RoxygenNote: 7.1.0
-Imports:
+URL: https://github.com/christianholland/hdlbrgdown
+BugReports: https://github.com/christianholland/hdlbrgdown/issues
+Depends: 
+    R (>= 3.2.0),
     remotes,
     dplyr,
     ggplot2,
     bookdown,
     knitr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+SystemRequirements: pandoc (>= 1.18) - http://pandoc.org
+RoxygenNote: 7.1.0
