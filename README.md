@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.com/christianholland/hdlbrgdown.svg?branch=master)](https://travis-ci.com/christianholland/hdlbrgdown)
+[![Lifecycle:experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
 This project was inspired by the [bookdown](https://github.com/rstudio/bookdown) package and is an updated version of my Senior Thesis template in the `reedtemplates` package [here](https://github.com/ismayc/reedtemplates). It was originally designed to only work with the Reed College LaTeX template, but has since been adapted to work with many different institutions by many different individuals. Check out the [**Customizing thesisdown to your institution**](https://github.com/ismayc/thesisdown#customizing-thesisdown-to-your-institution) section below for examples.
@@ -90,8 +91,6 @@ remotes::install_github("ismayc/thesisdown")
 Note that you may need to restart RStudio at this point for the following dialog to show up.
 
 3) Use the **New R Markdown** dialog to select **Thesis**:
-
-    ![New R Markdown](thesis_rmd.png)
 
     Note that this will currently only **Knit** if you name the directory `index` as shown above. This guarantees that `index.html` is generated correctly for the Gitbook version of the thesis.
 
