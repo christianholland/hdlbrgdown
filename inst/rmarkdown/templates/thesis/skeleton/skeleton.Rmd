@@ -32,6 +32,7 @@ preface: |
   `r if(knitr:::is_latex_output()) paste(readLines("sections/003-preface.Rmd"), collapse = "\n  ")`
 acknowledgements: |
   `r if(knitr:::is_latex_output()) paste(readLines("sections/004-acknowledge.Rmd"), collapse = "\n  ")`
+  
 # Specify the location of the bibliography below
 bibliography: bib/references.bib
 # Download your specific csl file and refer to it in the line below.
